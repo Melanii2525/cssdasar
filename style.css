@@ -1,0 +1,102 @@
+#malang{
+    background-color: rgb(9, 122, 34);
+    width: 45%;
+    border-radius: 5px;
+    color: plum;
+}
+
+.pink{
+    color: pink;
+}
+
+.ungu{
+    color: purple;
+}
+
+.kuning{
+    color: yellow;
+}
+
+.b1{
+    color: blue;
+}
+
+.merah{
+    color: red;
+}
+
+.hijau{
+    color: green;
+}
+.biru{
+    color: blue;
+}
+.merah{
+    color: red;
+}
+.biru{
+    color: blue;
+}
+
+.m2{
+    background-color: rgb(54, 9, 54);
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    color: beige;
+}
+
+.box{
+    color: white;
+}
+.b1{
+    color: rgb(55, 55, 187);
+}
+.b1:hover{
+    color: green
+}
+.b2{
+    color: rgb(236, 110, 131);
+}
+.b3{
+    color: rgb(207, 147, 103);
+}
+.b4{
+    background-color: yellow;
+    border-radius: 5px;
+}
+.m3{
+    background-color: rgb(105, 23, 105);
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    color: beige;
+}
+.b5{
+    color: rgb(104, 190, 154);
+}
+.a1{
+    color: black;
+}
+table, th, td{
+    border-style: none;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+thead{
+    font-size: 28px;
+}
+.b6{
+    color: black;
+}
+#b7{
+    color: aqua;
+}
+.b8{
+    color: black;
+}
+.b9{
+    background-color: aquamarine;
+    border-radius: 5px;
+}
